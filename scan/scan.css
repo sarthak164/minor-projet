@@ -1,0 +1,22 @@
+*{margin=0;
+padding=0;
+background:gray;
+}
+.btn{
+      display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    
+}
+.btn>button{
+    color:white;
+    background:rgb(255, 69,79);
+    text-decoration: none;
+    border:none;
+    color:white;
+    font-weight: 700;
+    border-radius: 30px;
+    font-size:12px;
+    padding:20px 40px;
+}
